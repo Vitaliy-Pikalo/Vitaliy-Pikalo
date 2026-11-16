@@ -94,12 +94,6 @@
   <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,redis,docker,aws,githubactions,flutter,firebase,linux&perline=10" alt="Data and infrastructure" />
 </p>
 
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitaliy-Pikalo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=1f3b73&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:1f3b73,100:0d1117&height=110&section=footer" alt="" width="100%" />
 </p>
